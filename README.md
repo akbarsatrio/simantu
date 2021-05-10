@@ -1,2 +1,2 @@
-# simantu
+# Simantu
 Simantu - Sistem Manajemen Tugas
