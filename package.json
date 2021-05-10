@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "alpinejs": "^2.8.2",
+    "tailwindcss": "^2.1.2"
+  },
+  "name": "simantu",
+  "description": "## What is CodeIgniter?",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "laravel-mix": "^6.0.19"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

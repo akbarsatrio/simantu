@@ -1,0 +1,55 @@
+.font-bold {
+  font-weight: 800;
+}
+
+.font-bold.italic {
+  font-style: italic;
+}
+
+.font-medium {
+  font-weight: 600;
+}
+
+.font-medium.italic {
+  font-style: italic;
+}
+
+.font-reguler {
+  font-weight: 400;
+}
+
+.font-reguler.italic {
+  font-style: italic;
+}
+
+.font-light {
+  font-weight: 200;
+}
+
+.font-light.italic {
+  font-style: italic;
+}
+
+h1.font-display {
+  font-size: 72px;
+  letter-spacing: -0.25rem;
+  line-height: 110%;
+}
+
+h2.font-display {
+  font-size: 56px;
+  letter-spacing: -0.25rem;
+  line-height: 110%;
+}
+
+h3.font-display {
+  font-size: 48px;
+  letter-spacing: -0.25rem;
+  line-height: 110%;
+}
+
+p {
+  font-size: 18px;
+  color: #d3d3d3;
+}
+/*# sourceMappingURL=typography.css.map */
